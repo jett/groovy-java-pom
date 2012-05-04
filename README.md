@@ -1,4 +1,4 @@
 groovy-java-pom
 ===============
 
-Maven POM with mixed Java and Groovy source
+This is a sample project that has mixed Java and Groovy source and unit test.
